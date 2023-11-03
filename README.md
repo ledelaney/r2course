@@ -28,3 +28,8 @@ an r course for pirates
 ### to dos
 + Find external CSV file that we can corrupt ourselves and have students clean up
 + Figure out what we can mutate into our imported data set
+
+## lecture 5: ggplot2
+### to dos
++ link Github repo to R Studio
+ 
